@@ -1,0 +1,51 @@
+
+
+/* usar a fonte Goblin one/*  */
+.goblin-one-regular {
+  font-family: "Goblin One", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.container{
+  margin: 0 auto;
+  max-width: 400px;
+  text-align: center;
+  padding: 20px;
+  font-family: "Goblin One", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.title{
+  font-size: 36px;
+  margin-bottom: 10px;
+  color: #8294c4;
+}
+
+.timer{
+  font-size: 72px;
+  color: #acb1d6;
+}
+button{
+  font-size: 18px;
+  padding: 10px 20px;
+  margin: 10px;
+  color: #ffffff;
+  background-color: #e5e483;
+  border: none;
+  border-radius: 5px;
+  font-family: "Goblin One", serif;
+}
+
+#start{
+  background-color: #a6bb8d;
+}
+
+#stop{
+  background-color: #d27676;
+}
+
+#reset{
+  background-color: #f1ef99;
+}
